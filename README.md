@@ -1,2 +1,2 @@
 # Tech Degree project 1
- Random number guessing game
+ # Random number guessing game (first project)
